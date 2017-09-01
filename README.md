@@ -1,0 +1,3 @@
+# Graphentheorie-Programm
+This Program simulates graphs
+Select nodes in the adjacency-matrix and get the output of the bridges, components, path- and distance-matrix,.....
